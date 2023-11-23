@@ -1,0 +1,42 @@
+body{
+    height:100vh;
+    width:100%;
+}
+
+.productOverview{
+    height:800px;
+    width:80%;
+   
+    position: fixed;
+    left:50%;
+    transform: translateX(-50%);
+}
+.col{
+    
+    height:800px;
+}
+.col .right{
+    text-align: left;
+    
+}
+.left {
+    justify-content: flex-start;
+    align-items: flex-start;
+    justify-items: flex-start;
+    gap:30px;
+    flex-direction: row;
+    width: 100%;
+    
+}
+.stars{
+   
+    
+}
+.procesor{
+    text-align: left;
+}
+
+.btns{
+    justify-content: center;
+    gap: 15px;
+}

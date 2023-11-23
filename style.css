@@ -1,0 +1,30 @@
+body{
+    background-color: #f2F2F2;
+    height:130vh;
+}
+
+
+
+.carousel-inner {
+  
+    border:solid 1px black;
+    background-color: lightgreen;
+}
+img{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height:00px;
+    width:300px;
+}
+
+.col a{
+    text-decoration: none;
+    list-style: none;
+    color:black;
+}
+
+.card-body .btn .btn-primary a{
+    color:white;
+}
+
